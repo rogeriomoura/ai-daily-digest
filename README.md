@@ -2,10 +2,11 @@
 
 A short, automated roundup of AI news — new model releases, notable open-source projects, and other significant news — generated every morning by a scheduled Claude Code cloud routine. See `.claude/skills/ai-news-digest/SKILL.md` for how it's produced.
 
-**Latest:** [2026-10-09](digests/2026-10-09.md)
+**Latest:** [2026-10-10](digests/2026-10-10.md)
 
 ## Archive
 
+- [2026-10-10](digests/2026-10-10.md)
 - [2026-10-09](digests/2026-10-09.md)
 - [2026-10-08](digests/2026-10-08.md)
 - [2026-10-07](digests/2026-10-07.md)
